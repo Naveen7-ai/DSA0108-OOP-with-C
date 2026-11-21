@@ -1,5 +1,0 @@
-Compiler: g++ -std=c++17 -Wall -Wextra -Wpedantic -Werror
-Compilation: PASS
-Exit: 0
-
-Shortfall of: $250
