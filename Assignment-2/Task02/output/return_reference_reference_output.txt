@@ -1,3 +1,0 @@
-Marks after moderation: 75 90 85 97 80 
-Highest via index: 97 at 3
-Highest via pointer: 97
